@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CF41435E-11DF-49BA-B70D-231F9D3D2A78"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA351BD9-116A-4263-AAE0-229C1C47D2FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/News/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init(repository:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA351BD9-116A-4263-AAE0-229C1C47D2FF - 298915bdc3110eb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.NewsTableViewController.__allocating_init(repository: NewsApp.RepositoryProtocol) -&gt; NewsApp.NewsTableViewController"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/News/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "AA351BD9-116A-4263-AAE0-229C1C47D2FF - 8262c8764c3226e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.NewsTableViewController.init(repository: NewsApp.RepositoryProtocol) -&gt; NewsApp.NewsTableViewController"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/News/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2B99E6A-787A-4837-819E-1E8937BC8DB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/News/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93ECBA6A-1153-42EB-8E04-354E8B11B13C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/News/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93ECBA6A-1153-42EB-8E04-354E8B11B13C - 5d0d9c6cbc55bd72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.NewsTableViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/News/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "93ECBA6A-1153-42EB-8E04-354E8B11B13C - 5d0d9c6cbc55bd72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.NewsTableViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/News/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD70CBCD-1580-4C9A-B5F7-258FC5917E64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/News/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "networkResponse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11010688-EC33-4AEA-B807-559D5FBF8677"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/News/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "networkResponse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "457D174F-AE99-4B94-B68F-0FEC404FDFE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/News/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "networkResponse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D1F0FF8-5C3C-4B01-9A9C-23EFDCE30743"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/News/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "networkResponse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21C0C8B3-B71C-4843-9082-0691D52DADAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/News/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "segmentedControlValueChanged(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0419AF9F-DC87-4DBC-B2BF-CF263B4E1726"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/Detail/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "buttonTap()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0419AF9F-DC87-4DBC-B2BF-CF263B4E1726 - 96a18508e7f9592a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.DetailViewController.setupHandler() -&gt; ()"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "0419AF9F-DC87-4DBC-B2BF-CF263B4E1726 - 9389330bcfa480f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.DetailViewController.buttonTap() -&gt; ()"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "746F1357-D63C-4C97-BC27-F1121E16A8AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/Profile/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ProfileViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "746F1357-D63C-4C97-BC27-F1121E16A8AC - 2a6e51fd58f6df3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.isEdit.getter : Swift.Bool"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "746F1357-D63C-4C97-BC27-F1121E16A8AC - 6978edbe8b99374b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.isEdit.setter : Swift.Bool"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "746F1357-D63C-4C97-BC27-F1121E16A8AC - 4cb67f1ab556393a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.isEdit.modify : Swift.Bool"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "746F1357-D63C-4C97-BC27-F1121E16A8AC - 7bfa86f34934934b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.isEdit.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "746F1357-D63C-4C97-BC27-F1121E16A8AC - 12e5f22e5a31f56e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.init(repository: NewsApp.RepositoryProfileProtocol) -&gt; NewsApp.ProfileViewController"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "746F1357-D63C-4C97-BC27-F1121E16A8AC - bc46ac348b16bab1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NewsApp.ProfileViewController&gt;"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29940488-7DE3-4A67-9047-A1CAE02640E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/Profile/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
+            landmarkName = "buttonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29940488-7DE3-4A67-9047-A1CAE02640E3 - 1b6f4f22690b00bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SnapKit.ConstraintMaker) -&gt; () in NewsApp.ProfileViewController.buildUI() -&gt; ()"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "29940488-7DE3-4A67-9047-A1CAE02640E3 - d45f88be1647ab6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.buttonTapped() -&gt; ()"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "29940488-7DE3-4A67-9047-A1CAE02640E3 - d45f88be1647ab6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.buttonTapped() -&gt; ()"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB280471-5D04-465A-BCE9-9503D2D7A859"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/Profile/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "textFieldShouldReturn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB280471-5D04-465A-BCE9-9503D2D7A859 - a93c82a1903f9746"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "CB280471-5D04-465A-BCE9-9503D2D7A859 - a93c82a1903fa8f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DB59512-9691-4970-AE33-2B8B350439C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/Profile/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "buttonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7DB59512-9691-4970-AE33-2B8B350439C9 - d45f88be1647abf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.buttonTapped() -&gt; ()"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "7DB59512-9691-4970-AE33-2B8B350439C9 - d45f88be1647ab16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileViewController.buttonTapped() -&gt; ()"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Modules/Profile/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "544">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D28BD519-E032-4264-8F4A-0ADDD617AF00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Service/DataBaseManager/Profile/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "saveProfile(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "805B452B-DA8E-4A50-A2F5-2095525FB77B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Service/DataBaseManager/Profile/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "saveProfile(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1D0F404-E3B3-49A8-8285-EAD9B2237211"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Service/DataBaseManager/Profile/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "saveProfile(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C046839-EC1B-4511-85BF-06BCBF838F03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/Profile/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "buttonTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FB8AA52-E534-4E1B-B51B-4D27884E3435"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Service/DataBaseManager/Profile/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "saveProfile(model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FB8AA52-E534-4E1B-B51B-4D27884E3435 - 17aa553b6fcbf0ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileDataManager.saveProfile(model: NewsApp.ProfileTableViewModel) -&gt; ()"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Service/DataBaseManager/Profile/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "2584">
+               </Location>
+               <Location
+                  uuid = "9FB8AA52-E534-4E1B-B51B-4D27884E3435 - 17aa553b6fcbf00f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsApp.ProfileDataManager.saveProfile(model: NewsApp.ProfileTableViewModel) -&gt; ()"
+                  moduleName = "NewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/secondtask/NewsApp/NewsApp/Service/DataBaseManager/Profile/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D9B265E-B3EB-424C-B081-2F83054B8C97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsApp/Modules/Profile/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "textFieldShouldReturn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
